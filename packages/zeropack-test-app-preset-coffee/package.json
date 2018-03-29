@@ -5,10 +5,12 @@
   },
   "devDependencies": {
     "zeropack-core": "^0.0.15",
-    "zeropack-preset-coffee": "^0.0.16"
+    "zeropack-preset-coffee": "^0.0.16",
+    "zeropack-storybook-react": "^0.0.1"
   },
   "scripts": {
     "start": "zeropack serve",
+    "storybook": "zeropack-storybook-react serve",
     "serve": "zeropack serve",
     "build": "zeropack build",
     "test": "true"

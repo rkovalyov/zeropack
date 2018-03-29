@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "zeropack-core": "^0.0.15",
+    "@storybook/react": "^4.0.0-alpha.0"
+  },
+  "bin": {
+    "zeropack-storybook-react": "./bin/zeropack-storybook-react.js"
+  },
+  "description": "zeropack contrib package",
+  "repository": "https://github.com/zeropack/zeropack",
+  "license": "MIT",
+  "name": "zeropack-storybook-react",
+  "version": "0.0.1",
+  "main": "index.coffee"
+}

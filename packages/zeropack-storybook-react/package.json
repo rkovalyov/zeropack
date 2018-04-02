@@ -1,7 +1,11 @@
 {
   "dependencies": {
     "zeropack-core": "^0.0.15",
-    "@storybook/react": "^4.0.0-alpha.0"
+    "@storybook/react": "^4.0.0-alpha.1",
+    "@storybook/addon-info": "^4.0.0-alpha.1",
+    "@storybook/addon-knobs": "^4.0.0-alpha.1",
+    "@storybook/addon-actions": "^4.0.0-alpha.1",
+    "@storybook/addon-options": "^4.0.0-alpha.1"
   },
   "bin": {
     "zeropack-storybook-react": "./bin/zeropack-storybook-react.js"
